@@ -81,5 +81,3 @@
 
 ---
 
-> “Code with empathy. Build for performance. Grow with curiosity.” 🚀
-
