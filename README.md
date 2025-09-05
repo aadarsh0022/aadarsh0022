@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aadarsh Chandanvandan</h1>
-<h3 align="center">Frontend Developer | React & Next.js | UI Craftsman | MERN Stack Explorer</h3>
+<h3 align="center">Frontend Developer | React & Next.js | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://aadarshx.in" target="_blank"><img src="https://img.shields.io/badge/Portfolio-aadarshx.in-blue?style=for-the-badge&logo=vercel" /></a>
@@ -11,7 +11,7 @@
 
 🚀 I’m a frontend-focused developer passionate about building fast, scalable, and user-friendly web applications using **React**, **Next.js**, **TypeScript**, and modern UI libraries like **Tailwind CSS** and **Material UI**.
 
-🔧 I’m also diving into backend development with **Node.js**, **Express.js**, and **PostgreSQL** using **MikroORM**, aiming to become a solid full-stack developer.
+🔧 I’m also diving into backend development with **Node.js**, **Express.js**, and **PostgreSQL** using **MikroORM**, as a solid full-stack developer.
 
 ---
 
